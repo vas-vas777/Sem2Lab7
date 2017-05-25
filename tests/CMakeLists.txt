@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 2.8)
 
-set(TESTS_FOR_PROJECT S2L7)
+set(TESTS_FOR_PROJECT Sem2Lab7)
 
 project(${TESTS_FOR_PROJECT}_tests)
 
